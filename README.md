@@ -15,3 +15,7 @@
 4-`python3 IDUGAME.py`
 
 ---
+**how to play**
+> press `a` ====> to move left
+AND
+> press `d` ====> to move right
