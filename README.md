@@ -16,6 +16,9 @@
 
 ---
 **how to play**
-> press `a` ====> to move left
+
+<h3>> press `a` ====> to move left</h3>
+
 AND
-> press `d` ====> to move right
+
+<h3>> press `d` ====> to move right</h3>
